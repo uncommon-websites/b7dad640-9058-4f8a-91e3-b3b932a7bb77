@@ -5,11 +5,11 @@
 <div class="bg-black text-white py-24 px-4 md:px-8 max-w-[1400px] mx-auto relative">
     <div class="px-4 md:px-12 flex flex-col md:flex-row items-center justify-between gap-8">
         <h2 class="font-serif text-3xl md:text-4xl">
-            Unlock your advice firm
+            Proteja seu negócio hoje
         </h2>
         
         <a href="#" class="inline-flex items-center px-6 py-3 bg-gray-800 border border-gray-700 text-white font-medium rounded hover:bg-gray-700 transition-colors">
-            Get in touch with us <span class="ml-2">→</span>
+            Fale com especialistas <span class="ml-2">→</span>
         </a>
     </div>
 </div>
@@ -19,31 +19,31 @@
         <!-- Top Row -->
         <div class="flex flex-col md:flex-row justify-between items-start md:items-center border-b border-gray-200 border-dashed pb-12 mb-12">
             <div class="text-xs text-gray-500 mb-4 md:mb-0">
-                contact@heysaturn.com
+                +55 (11) 3323-3322 • ouvidoria@cg-one.com
             </div>
             
             <div class="flex space-x-6 text-xs text-gray-500 font-medium">
-                <a href="#" class="hover:text-gray-900">Journal</a>
-                <a href="#" class="hover:text-gray-900">Security</a>
-                <a href="#" class="hover:text-gray-900">Customers</a>
-                <a href="#" class="hover:text-gray-900">About Us</a>
+                <a href="#" class="hover:text-gray-900">Blog</a>
+                <a href="#" class="hover:text-gray-900">Soluções</a>
+                <a href="#" class="hover:text-gray-900">Clientes</a>
+                <a href="#" class="hover:text-gray-900">Sobre Nós</a>
             </div>
         </div>
 
         <!-- Bottom Row -->
         <div class="flex flex-col md:flex-row justify-between items-start md:items-center text-[10px] text-gray-400">
             <div class="mb-4 md:mb-0">
-                ©2025, All right reserved.
+                ©2025 CG One. Todos os direitos reservados.
             </div>
             
             <div class="mb-4 md:mb-0">
-                Saturn Fintech Ltd, 8 Devonshire Square, EC2M 4YJ
+                Av. Angélica, 2346, 13º andar, Consolação, São Paulo - SP, CEP 01228-200
             </div>
             
             <div class="flex space-x-4">
-                <a href="#" class="hover:text-gray-600">Privacy Policy</a>
+                <a href="#" class="hover:text-gray-600">Política de Privacidade</a>
                 <span>•</span>
-                <a href="#" class="hover:text-gray-600">Terms of Service</a>
+                <a href="#" class="hover:text-gray-600">Termos de Serviço</a>
             </div>
         </div>
     </div>
@@ -52,9 +52,9 @@
 <!-- Cookie Banner -->
 <div class="fixed bottom-4 right-4 bg-white border border-gray-200 shadow-lg p-4 rounded-lg max-w-sm z-50 flex items-center gap-4">
     <p class="text-xs text-gray-600">
-        We use cookies to personalize content, run ads, and analyze traffic.
+        Usamos cookies para personalizar conteúdo e analisar tráfego, em conformidade com a LGPD.
     </p>
     <button class="text-xs font-medium bg-gray-100 hover:bg-gray-200 px-3 py-1 rounded transition-colors">
-        Okay
+        Aceitar
     </button>
 </div>
